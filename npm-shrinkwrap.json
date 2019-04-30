@@ -1,6 +1,6 @@
 {
   "name": "@vaadin/vaadin-core-shrinkwrap",
-  "version": "13.0.4",
+  "version": "13.0.5",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
