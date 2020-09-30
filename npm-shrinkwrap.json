@@ -206,9 +206,9 @@
       }
     },
     "@vaadin/vaadin-control-state-mixin": {
-      "version": "2.1.3",
-      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.1.3.tgz",
-      "integrity": "sha512-EtLfMN9i/gwToAEuW6E1OA2Q2i/4a+Il6tKkqE/0i7bgu3Xr1IITMcagQn9QSsp1Xkpr/nLtWWKRq7yZZkbHVg==",
+      "version": "2.2.4",
+      "resolved": "https://registry.npmjs.org/@vaadin/vaadin-control-state-mixin/-/vaadin-control-state-mixin-2.2.4.tgz",
+      "integrity": "sha512-oGsNaWbM6RisY1LkyWYtwnw+DtSRSpkFDbemEOtkYezj+Hhsd9+07LqILaUU4pB0zPaRq+uq+2tKba/TL3t23g==",
       "requires": {
         "@polymer/polymer": "^3.0.0"
       }
